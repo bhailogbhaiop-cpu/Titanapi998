@@ -1,0 +1,14 @@
+{
+  "name": "dragonx-880-pattern-api",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Compact WinGo history analysis API with DRAGON-X-880 heuristic scoring and result ledger",
+  "main": "lib/dragonx.js",
+  "scripts": {
+    "start": "node local-server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
